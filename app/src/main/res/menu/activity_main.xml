@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/smsAll"
+        android:title="All"
+        android:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/smsInbox"
+        android:title="Inbox"
+        android:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/smsDrafts"
+        android:title="Drafts"
+        android:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/smsOutbox"
+        android:title="Outbox"
+        android:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/smsSent"
+        android:title="Sent"
+        android:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/smsConversations"
+        android:title="Conversations"
+        android:showAsAction="never"
+        />
+</menu>

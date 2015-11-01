@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dhavalrupapara/Documents/workspaces/studio/SmsDemo/app/libs/mpandroidchartlibrary-2-1-5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a7650f11d4eb03995f4450562cc271d5f790c992">
+        <dex dex="/Users/dhavalrupapara/Documents/workspaces/studio/SmsDemo/app/build/intermediates/pre-dexed/debug/mpandroidchartlibrary-2-1-5-36c9d459fcc0436e77c9cbe3f910913a38ce5574.jar" />
+    </item>
+
+</items>
